@@ -24,6 +24,12 @@
    "title": "Quiz",
    "pageId": "0687b030-bd86-b7d3-6031-39ed75b5d94e",
    "type": "page"
+  },
+  {
+   "id": "06e8119f-610d-b40e-a89a-ed13fba378ca",
+   "title": "Auto-Graded Assessment",
+   "pageId": "1bf7364e-d83c-3baf-8077-ae12fc170f0e",
+   "type": "page"
   }
  ]
 }

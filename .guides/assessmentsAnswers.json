@@ -31,5 +31,39 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "test-3605319805",
+  "points": 20,
+  "results": [
+   {
+    "guidance": null,
+    "format": null,
+    "output": "Nice job using the go to block!",
+    "timestamp": 1603835036646,
+    "state": "pass"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "Use the go to block to position the cat at the starting point",
+    "timestamp": 1603835030485,
+    "state": "fail"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "Use the go to block to position the cat at the starting point",
+    "timestamp": 1603835021773,
+    "state": "fail"
+   },
+   {
+    "guidance": null,
+    "format": null,
+    "output": "sh: 1: unzip: not found\nTraceback (most recent call last):\n  File \".guides/secure/setupfixit2/setupfixit2_test.py\", line 7, in <module>\n    with open(json_file, \"r\") as code:\nFileNotFoundError: [Errno 2] No such file or directory: '.guides/secure/setupfixit2/project.json'",
+    "timestamp": 1603834973445,
+    "state": "fail"
+   }
+  ]
  }
 ]

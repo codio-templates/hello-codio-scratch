@@ -82,6 +82,29 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
+  },
+  {
+   "id": "1bf7364e-d83c-3baf-8077-ae12fc170f0e",
+   "title": "Auto-Graded Assessment",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "setupfixit2.sb3",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-guides-left",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Auto-Graded-Assessment-1bf7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",

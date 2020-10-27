@@ -87,5 +87,33 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3605319805",
+  "source": {
+   "name": "test fixit 2",
+   "showName": false,
+   "instructions": "Click the Check it button to submit your code to the auto-grader after you have tested it.",
+   "command": "python3 .guides/secure/setupfixit2/helper.py",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]
