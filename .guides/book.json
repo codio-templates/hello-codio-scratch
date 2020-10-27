@@ -1,0 +1,29 @@
+{
+ "name": "Scratch in Codio",
+ "children": [
+  {
+   "title": "Good Morning, Scratch",
+   "id": "85b125e3-133f-1ab8-27d0-29a6ff8e8c48",
+   "pageId": "85b125e3-133f-1ab8-27d0-29a6ff8e8c48",
+   "type": "page"
+  },
+  {
+   "title": "Scratch Final Project",
+   "id": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
+   "pageId": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
+   "type": "page"
+  },
+  {
+   "id": "3b0eedcc-e9ef-16a2-d776-543568439580",
+   "title": "Reflect on your work",
+   "pageId": "09ce0c11-34e1-1e56-973a-7ae34ba86da6",
+   "type": "page"
+  },
+  {
+   "id": "54c67bb1-ddf1-e483-56a9-10791626eed3",
+   "title": "Quiz",
+   "pageId": "0687b030-bd86-b7d3-6031-39ed75b5d94e",
+   "type": "page"
+  }
+ ]
+}
