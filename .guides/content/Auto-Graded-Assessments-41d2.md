@@ -1,7 +1,7 @@
 ----------
 
 ## Auto-Graded Assessments
-Here are some quick examples of the different types of auto-graded assessments available through Codio. For a more detailed set of examples, take a look at the `Demo Guides and Assessments` Starter Pack. To add an assessment, from the library or one you created yourself, click the chess piece icon at the top.
+Here are some quick examples of the different types of auto- graded assessments available through Codio. For a more detailed set of examples, take a look at the `Demo Guides and Assessments` Starter Pack. Some of the features mentioned in this Starter Pack are not currently available for block based languages. To create an assessment, click the chess piece icon at the top.
 
 ![Assessments](.guides/img/assessments.png)
 
@@ -11,6 +11,10 @@ Auto-graded assessments are linked to Codio's [Learning Insights](https://www.co
 
 ### Multiple Choice
 The default multiple choice question only has two answers. You can add as many as you would like, and you can have multiple correct answers.
+
+The example below was created by using images for the choices. Here is how it was set up:
+![.guides/img/create-mcq](.guides/img/create-mcq.png)
+
 
 {Check It!|assessment}(multiple-choice-3807584795)
 

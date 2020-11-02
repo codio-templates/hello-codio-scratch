@@ -26,12 +26,14 @@ To use the Scratch editor, add a Scratch file to your project (must have an .sb3
 
 The next step is to load this file into a panel of your layout. Click on the Guide Editor tab, click on the wrench icon again, and click on the `Open Tabs` button. You can click the button and type the file's path to add a new file to the layout. Or, you can drag the file from the directory tree onto the page. Since your Scratch file will be on the right, you need to change the panel value to 1.
 
+If you want to use a project you have already created on the web version of Scratch, open the project in Scratch and select **File > Save** to your computer, then in Codio select **File > Upload** and open the Scratch file you downloaded. The process is similar for moving Scratch files from Codio to Scratch, ctrl-click on the .sb3 file in Codio and select Download. Then in a new project in Scratch, select **File > Load** from your computer.
+
 ![.guides/img/coding_file](.guides/img/coding_file.png)
 
 This file will open with the guide. The file will remain opened until the student closes the tab. This is why it is a good idea to tell Codio to close any previously opened tabs when selecting the layout.
 
 ### Markdown
-Guides are authored with [markdown](https://docs.codio.com/courses/authoring/#markdown-content-editing), but you can use any HTML to author content. The drop-down text is an example of the `<details>` and `<summary>` tags.
+Guides are authored with [markdown](https://docs.codio.com/courses/authoring/#markdown-content-editing), but you can use any HTML to author content. 
 
 ### Images
 You will notice a folder called `.guides` in the directory tree. To view the File Tree, select **View->File Tree**. All of the information in this folder is hidden from students. There is a subfolder called `img` where you can upload any images you want to appear in the guide. Right-click on the `img` folder and select `Upload...`.

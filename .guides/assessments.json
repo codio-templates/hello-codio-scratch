@@ -48,12 +48,12 @@
     {
      "_id": "1e94a18f-fd46-0507-bb94-1eaed125a2af",
      "correct": true,
-     "answer": "![.guides/img/MCQ1](.guides/img/MCQ1.png)\n---------------"
+     "answer": "![.guides/img/MCQ1](.guides/img/MCQ1.png)"
     },
     {
      "_id": "7ee0fd72-9336-0862-b770-b512b465b263",
      "correct": false,
-     "answer": "![.guides/img/MCQ3](.guides/img/MCQ3.png)\n-------------"
+     "answer": "![.guides/img/MCQ3](.guides/img/MCQ3.png)"
     },
     {
      "_id": "a7cffe09-7c89-7685-f9a9-784ea0c27118",
@@ -76,13 +76,7 @@
     "files": [
      "firstproject.sb3"
     ],
-    "opened": [
-     {
-      "type": "file",
-      "panelNumber": 1,
-      "content": "firstproject.sb3"
-     }
-    ]
+    "opened": []
    },
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
