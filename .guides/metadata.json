@@ -5,6 +5,10 @@
    "title": "Good Morning, Scratch",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "firstproject.sb3",
      "panel": 1,
      "action": "open"
@@ -20,23 +24,36 @@
    "learningObjectives": ""
   },
   {
-   "id": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
-   "title": "Scratch Final Project",
+   "id": "510272f1-daf5-9b08-9264-4e81005c69c1",
+   "title": "Building the Demo",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "finalprojectdemo.sb3",
-     "panel": 1,
-     "action": "open"
     }
    ],
-   "layout": "2-panels-guides-left",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Scratch-Final-Project-7ea9.md",
+   "content-file": ".guides/content/Building-the-Demo-5102.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "41d2d0bd-e0b1-d90c-7723-3ae77ae2a448",
+   "title": "Auto-Graded Assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Auto-Graded-Assessments-41d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -44,7 +61,7 @@
   },
   {
    "id": "09ce0c11-34e1-1e56-973a-7ae34ba86da6",
-   "title": "Reflect on your work",
+   "title": "Free Text Assessments",
    "files": [
     {
      "path": "#tabs",
@@ -59,48 +76,7 @@
    "layout": "2-panels-guides-left",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Reflect-on-your-work-09ce.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "0687b030-bd86-b7d3-6031-39ed75b5d94e",
-   "title": "Quiz",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Quiz-0687.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "1bf7364e-d83c-3baf-8077-ae12fc170f0e",
-   "title": "Auto-Graded Assessment",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "setupfixit2.sb3",
-     "panel": 1,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-guides-left",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Auto-Graded-Assessment-1bf7.md",
+   "content-file": ".guides/content/Free-Text-Assessments-09ce.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

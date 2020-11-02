@@ -115,5 +115,53 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-388341163",
+  "source": {
+   "name": "Fill in the Blank",
+   "showName": true,
+   "instructions": "Fill in the blanks below:",
+   "showValues": true,
+   "text": "If you want to make something happen multiple times you use a <<<loop>>>. To make something happen without an end you use the <<<forever>>> block. If you want something to happen a specific number of times you use the <<<repeat>>> block. If you want something to happen until a specific condition is met you use a <<<repeat until>>> block.",
+   "distractors": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "loop",
+     "forever",
+     "repeat",
+     "repeat until"
+    ],
+    "text": [
+     "If you want to make something happen multiple times you use a ",
+     0,
+     ". To make something happen without an end you use the ",
+     0,
+     " block. If you want something to happen a specific number of times you use the ",
+     0,
+     " block. If you want something to happen until a specific condition is met you use a ",
+     0,
+     " block."
+    ],
+    "regexPositions": []
+   }
+  }
  }
 ]

@@ -8,27 +8,21 @@
    "type": "page"
   },
   {
-   "title": "Scratch Final Project",
-   "id": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
-   "pageId": "7ea997ae-d6c8-a1a4-715d-f62aa586249e",
+   "id": "026fc0e2-d270-0157-1317-e2c90c57ff1a",
+   "title": "Building the Demo",
+   "pageId": "510272f1-daf5-9b08-9264-4e81005c69c1",
+   "type": "page"
+  },
+  {
+   "id": "6157d05b-7518-c747-7ee0-1bbf3be78971",
+   "title": "Auto-Graded Assessments",
+   "pageId": "41d2d0bd-e0b1-d90c-7723-3ae77ae2a448",
    "type": "page"
   },
   {
    "id": "3b0eedcc-e9ef-16a2-d776-543568439580",
-   "title": "Reflect on your work",
+   "title": "Free Text Assessments",
    "pageId": "09ce0c11-34e1-1e56-973a-7ae34ba86da6",
-   "type": "page"
-  },
-  {
-   "id": "54c67bb1-ddf1-e483-56a9-10791626eed3",
-   "title": "Quiz",
-   "pageId": "0687b030-bd86-b7d3-6031-39ed75b5d94e",
-   "type": "page"
-  },
-  {
-   "id": "06e8119f-610d-b40e-a89a-ed13fba378ca",
-   "title": "Auto-Graded Assessment",
-   "pageId": "1bf7364e-d83c-3baf-8077-ae12fc170f0e",
    "type": "page"
   }
  ]
