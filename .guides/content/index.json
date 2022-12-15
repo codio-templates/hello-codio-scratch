@@ -1,0 +1,21 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Good-Morning--Scratch-85b1",
+		"Building-the-Demo-026f",
+		"Auto-Graded-Assessments-6157",
+		"Free-Text-Assessments-3b0e"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Scratch in Codio",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

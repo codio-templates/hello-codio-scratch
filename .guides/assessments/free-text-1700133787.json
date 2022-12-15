@@ -1,0 +1,37 @@
+{
+	"source": {
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"instructions": "1. Which blocks did you add to your first Scratch Project?\n\n2. Did they work the way you expected them to work?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [
+				"firstproject.sb3",
+				"finalprojectdemo.sb3"
+			],
+			"opened": [
+				{
+					"content": "firstproject.sb3",
+					"panelNumber": 1,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			]
+		},
+		"name": "reflection",
+		"oneTimeTest": true,
+		"points": 20,
+		"previewType": "NONE",
+		"rubrics": [],
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "free-text-1700133787",
+	"type": "free-text"
+}

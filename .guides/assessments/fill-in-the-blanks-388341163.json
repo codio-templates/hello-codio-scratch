@@ -1,0 +1,48 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"distractors": "",
+		"guidance": "",
+		"instructions": "Fill in the blanks below:",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				}
+			]
+		},
+		"name": "Fill in the Blank",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true,
+		"showValues": true,
+		"text": "If you want to make something happen multiple times you use a \u003c\u003c\u003cloop\u003e\u003e\u003e. To make something happen without an end you use the \u003c\u003c\u003cforever\u003e\u003e\u003e block. If you want something to happen a specific number of times you use the \u003c\u003c\u003crepeat\u003e\u003e\u003e block. If you want something to happen until a specific condition is met you use a \u003c\u003c\u003crepeat until\u003e\u003e\u003e block.",
+		"tokens": {
+			"blank": [
+				"loop",
+				"forever",
+				"repeat",
+				"repeat until"
+			],
+			"regexPositions": [],
+			"text": [
+				"If you want to make something happen multiple times you use a ",
+				0,
+				". To make something happen without an end you use the ",
+				0,
+				" block. If you want something to happen a specific number of times you use the ",
+				0,
+				" block. If you want something to happen until a specific condition is met you use a ",
+				0,
+				" block."
+			]
+		}
+	},
+	"taskId": "fill-in-the-blanks-388341163",
+	"type": "fill-in-the-blanks"
+}

@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "firstproject.sb3"
+		}
+	],
+	"id": "85b125e3-133f-1ab8-27d0-29a6ff8e8c48",
+	"layout": "2-panels-guides-left",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Good Morning, Scratch",
+	"type": "page"
+}

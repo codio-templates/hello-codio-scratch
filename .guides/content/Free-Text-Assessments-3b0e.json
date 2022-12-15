@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "firstproject.sb3"
+		}
+	],
+	"id": "3b0eedcc-e9ef-16a2-d776-543568439580",
+	"layout": "2-panels-guides-left",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Free Text Assessments",
+	"type": "page"
+}
