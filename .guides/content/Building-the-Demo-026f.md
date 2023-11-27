@@ -2,7 +2,7 @@
 
 ## Building the Demo
 
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [documentation](https://docs.codio.com/courses/authoring/) for more information about content authoring with guides.
+Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [documentation](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
 
 ||| info
 ### To try this out
@@ -33,7 +33,7 @@ If you want to use a project you have already created on the web version of Scra
 This file will open with the guide. The file will remain opened until the student closes the tab. This is why it is a good idea to tell Codio to close any previously opened tabs when selecting the layout.
 
 ### Markdown
-Guides are authored with [markdown](https://docs.codio.com/courses/authoring/#markdown-content-editing), but you can use any HTML to author content. 
+Guides are authored with [markdown](https://docs.codio.com/instructors/authoring/guides/markdown_content.html#markdown), but you can use any HTML to author content. 
 
 ### Images
 You will notice a folder called `.guides` in the directory tree. To view the File Tree, select **View->File Tree**. All of the information in this folder is hidden from students. There is a subfolder called `img` where you can upload any images you want to appear in the guide. Right-click on the `img` folder and select `Upload...`.

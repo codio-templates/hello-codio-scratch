@@ -1,22 +1,62 @@
+
+
 ------
 #### Make Scratch cat say "Good Morning!".
 
 * Select the **Events** section in the code tab (1) and drag the `When Flag clicked` block (2) to the center code area (3).
 
+<table>
+<tr>
+<td>
+<div style="width:400px; height:350px; margin-left:120px">
 
-![.guides/img/whenflagclicked](.guides/img/whenflagclicked.png)
+![The when flag clicked Scratch block](.guides/img/whenflagclicked.png)
 
-
+</div>
+</td>
+</tr>
+</table>
 
 * Select the **Looks** section in the code tab (1) and drag the `say` block to the center code area (2).
 
-![.guides/img/saygoodmorning](.guides/img/saygoodmorning.png)
+<table>
+<tr>
+<td>
+<div style="width:400px; height:350px; margin-left:120px">
 
+![The Scratch Say block](.guides/img/saygoodmorning.png)
 
-* Replace `Hello` with `Good Morning!`
+</div>
+</td>
+</tr>
+</table>
 
-* Click on the Green flag (3) to make your project run.
+* Replace `Hello` with `Good Morning!` (3).
 
-* Select **Save** from the **File** menu.
+* Click on the Green flag  to make your project run.
 
+<table>
+<tr>
+<td>
+<div style="width:400px; height:350px; margin-left:120px">
 
+![The Green Flag](.guides/img/greenflag.png)
+
+</div>
+</td>
+</tr>
+</table>
+
+* Select **Save now** from the **File** menu.
+
+<table>
+<tr>
+<td>
+<div style="width:400px; height:350px; margin-left:120px">
+
+![Selecting Save from the file menu](.guides/img/savenow.png)
+
+</div>
+</td>
+</tr>
+</table>
