@@ -10,7 +10,7 @@
 <td>
 <div style="width:400px; height:350px; margin-left:120px">
 
-![The when flag clicked Scratch block](.guides/img/whenflagclicked.png)
+![The when flag clicked Scratch block is the first block in the Events section](.guides/img/whenflagclicked.png)
 
 </div>
 </td>
@@ -24,7 +24,7 @@
 <td>
 <div style="width:400px; height:350px; margin-left:120px">
 
-![The Scratch Say block](.guides/img/saygoodmorning.png)
+![The Scratch Say block is the first block in the looks section. Click on the text in the block to change it.](.guides/img/saygoodmorning.png)
 
 </div>
 </td>
@@ -40,7 +40,7 @@
 <td>
 <div style="width:400px; height:350px; margin-left:120px">
 
-![The Green Flag](.guides/img/greenflag.png)
+![The Green Flag is above the upper left corner of the Scratch stage.](.guides/img/greenflag.png)
 
 </div>
 </td>
@@ -54,7 +54,7 @@
 <td>
 <div style="width:400px; height:350px; margin-left:120px">
 
-![Selecting Save from the file menu](.guides/img/savenow.png)
+![You can select "Save Now" from the Scratch menu icon that is labeled "File" and depicts a page.](.guides/img/savenow.png)
 
 </div>
 </td>
