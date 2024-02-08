@@ -7,4 +7,4 @@ Feel free to edit and try things out -- if you need a new copy of this project u
 
 ## Start the Guide to see the project
 If you are seeing this, you are currently in edit mode. To start Guides from this page, go to the tool bar at the top:
-![.guides/img/playGuide](.guides/img/playGuide.png)
+![The Tools menu is in the Codio Menu bar. Select Tools, then Guide and then Play](.guides/img/playGuide.png)
